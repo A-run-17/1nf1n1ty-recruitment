@@ -42,13 +42,7 @@ Each file contains:
 ##  Tools Used
 - Linux terminal
 - SSH client
-- Basic shell commands:
-  - `ls`
-  - `cat`
-  - `find`
-  - `grep`
-  - `file`
-  - `chmod`
+- Basic shell commands
 
 ---
 
