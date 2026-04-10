@@ -1,6 +1,6 @@
 #  Bandit Writeups (OverTheWire)
 
-## 📝 Overview
+##  Overview
 This repository contains my personal writeups for the **OverTheWire Bandit wargame**.
 
 Each level is documented in a separate Markdown file inside the `bandit/` folder.  
@@ -8,7 +8,7 @@ The goal is to track my progress and explain the solutions clearly for learning 
 
 ---
 
-## 🎯 What is Bandit?
+##  What is Bandit?
 Bandit is a beginner-friendly Linux wargame that teaches:
 - Linux command-line basics
 - File manipulation
@@ -18,7 +18,7 @@ Bandit is a beginner-friendly Linux wargame that teaches:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 bandit/
@@ -39,7 +39,7 @@ Each file contains:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Linux terminal
 - SSH client
 - Basic shell commands:
@@ -52,7 +52,7 @@ Each file contains:
 
 ---
 
-## 🧠 Learning Goals
+##  Learning Goals
 Through this repository, I aim to improve:
 - Linux command-line proficiency
 - Problem-solving skills
