@@ -2,9 +2,7 @@
 
 ##  Overview
 This repository contains my personal writeups for the **OverTheWire Bandit wargame**.
-
 Each level is documented in a separate Markdown file inside the `bandit/` folder.  
-The goal is to track my progress and explain the solutions clearly for learning purposes.
 
 ---
 
