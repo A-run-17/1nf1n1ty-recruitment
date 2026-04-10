@@ -5,7 +5,7 @@ The password for the next level is stored in the file data.txt next to the word 
 ```
 ssh bandit7@bandit.labs.overthewire.org -p 2220
 
---HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+--morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 ```
 
 # Goal               
