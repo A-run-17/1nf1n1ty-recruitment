@@ -18,20 +18,7 @@ Bandit is a beginner-friendly Linux wargame that teaches:
 
 ---
 
-##  Repository Structure
-
-```
-bandit/
-│
-├── level_0.md
-├── level_1.md
-├── level_2.md
-├── level_3.md
-├── ...
-└── level_30.md
-```
-
-Each file contains:
+## Each file contains:
 - Challenge description
 - Commands used
 - Explanation of solution
@@ -43,14 +30,3 @@ Each file contains:
 - Linux terminal
 - SSH client
 - Basic shell commands
-
----
-
-##  Learning Goals
-Through this repository, I aim to improve:
-- Linux command-line proficiency
-- Problem-solving skills
-- Understanding of system internals
-- Basic cybersecurity fundamentals
-
----
