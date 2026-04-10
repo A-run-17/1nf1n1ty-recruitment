@@ -4,9 +4,16 @@ The password for the next level is stored in a file called readme located in the
 # Goal          
 Log into the server using SSH And read the file README.
 
-# Command        
-cat README
+# Login credentials
+```
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+--bandit0
+```
 
+# Command   
+```
+cat README
+```
 # Explanation   
 cat command is used for reading a content in a file in Linux environment
 
