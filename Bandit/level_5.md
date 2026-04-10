@@ -18,5 +18,6 @@ ssh bandit4@bandit.labs.overthewire.org -p 2220
 # Explanation    
 file command is used to identify the file type . Among all the files only one file will be human-readable (ASCII text) and then we use cat command to read it
 
+
 # Password        
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
