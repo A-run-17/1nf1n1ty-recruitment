@@ -1,8 +1,8 @@
 # Natas 20 - Natas 21
 
-    Username  : natas20
-    Password  : p5mCvP7GS2K6Bmt3gqhM2Fc1A5T8MVyw
-    URL       : http://natas20.natas.labs.overthewire.org
+    Username  : natas21
+    Password  : BPhv63cKE1lkQl04cE5CuFTzXe15NfiH
+    URL       : http://natas21.natas.labs.overthewire.org
 
 # Solution
 In the main page you can see that 
