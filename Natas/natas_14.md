@@ -31,9 +31,9 @@ Here we got an SQL Injection, if you check the query you can see that we can eas
 
     SELECT * from users where username="user" and password="pass"
 
-If we put ” OR 1=1# into the username field, you can see that we succesfully take over the logic of the query and force it to return true (the # will make sure that remaining of the query will be passed as comment) 
+If we put admin” OR 1=1# into the username field, you can see that we succesfully take over the logic of the query and force it to return true (the # will make sure that remaining of the query will be passed as comment) 
 
-    SELECT * from users where username="user" OR 1=1# " and password="pass"
+    SELECT * from users where username="admin" OR 1=1# " and password="pass"
 
 # Password
     SdqIqBsFcz3yotlNYErZSZwblkm0lrvx
