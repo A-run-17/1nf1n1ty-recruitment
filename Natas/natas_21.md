@@ -63,4 +63,4 @@ This command is used for pushing admin = 1 and store the cookie in a file
 This command is trying to login with the cookie discovered in the previous step
 
 # Password
-      BPhv63cKE1jkjMxhYuJY5cHeeR2VLCSQ
+     d8rwGBl0Xslg3b76ez3S7e1U8xwODGs8
