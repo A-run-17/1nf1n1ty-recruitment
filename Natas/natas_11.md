@@ -94,7 +94,9 @@ final_cookie = base64.b64encode(new_cookie).decode()
 
 print("New cookie:", final_cookie)
 ```
-The above python script takes the current cookie and that default data and perform xor encryption to find the key and then the key is xor'rd with the new data as we wanted and the final base64 decoded cookie is given as the output
+The above python script takes the current cookie and that default data and perform xor encryption to find the key and then the key is xor'rd with the new data as we wanted and the final base64 decoded cookie is given as the output .
+
+Change the current session cookie to the decoded cookie in the application tab of the inspect page to obtain the password 
 
 # Password 
      yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
